@@ -1,0 +1,17 @@
+{
+  "hackerrank": {
+    "solved": 1,
+    "easy": 1,
+    "medium": 0,
+    "hard": 0,
+    "unknown": 0,
+    "shas": {
+      "hello-world-c": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "Language: C",
+        "date": "2026-11-17T15:29:54.969Z"
+      }
+    }
+  }
+}
