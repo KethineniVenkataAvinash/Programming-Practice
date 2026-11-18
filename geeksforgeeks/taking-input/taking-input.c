@@ -7,7 +7,10 @@ int main() {
     float f;
     int ff; // To Store floor of float variable f
 
-    scanf("%[^\n] %d %f", s, &n, &f);
+    scanf("%[^\n]", s);
+    scanf("%d", &n);
+    scanf("%f", &f);
+    
     ff = (int)floor(f);
     
     printf("%s\n", s);
