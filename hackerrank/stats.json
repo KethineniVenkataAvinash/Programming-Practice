@@ -1,7 +1,7 @@
 {
   "hackerrank": {
-    "solved": 3,
-    "easy": 3,
+    "solved": 4,
+    "easy": 4,
     "medium": 0,
     "hard": 0,
     "unknown": 0,
@@ -23,6 +23,12 @@
         "category": "easy",
         "language": "C",
         "date": "2026-11-18T10:53:53.320Z"
+      },
+      "sum-of-digits-of-a-five-digit-number": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "Language: C",
+        "date": "2026-11-20T15:22:13.182Z"
       }
     }
   }
