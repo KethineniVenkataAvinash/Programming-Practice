@@ -1,0 +1,9 @@
+            sum = sum + last_digit;
+            n = n/10;
+        }
+        printf("%d", sum);
+    }else {
+        printf("Enter the 5 digit Number");
+    }
+    return 0;
+}
